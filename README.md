@@ -26,70 +26,71 @@
 - 🌱 Deepening: system design, distributed systems, and evals for agentic pipelines
 - ⚡ I ship working code first — no half-built prototypes, no TODO-riddled placeholders
 
+
 ---
-        ### ⚙️ Tech Stack
 
-        <div align="center">
+### ⚙️ Tech Stack
 
-        <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,supabase,postgres,git,github,docker,linux,figma,vscode&perline=8" />
+<div align="center">
 
-        <br/><br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,html,css,supabase,postgres,git,github,docker,linux,figma,vscode&perline=8" />
 
-        ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-        ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-        ![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
-        ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-        ![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
-        ![Agentic%20Systems](https://img.shields.io/badge/Agentic_Systems-0EA5E9?style=for-the-badge)
+<br/><br/>
 
-        </div>
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![Agentic%20Systems](https://img.shields.io/badge/Agentic_Systems-0EA5E9?style=for-the-badge)
 
-        ---
+</div>
 
-        ### 💼 Featured Repositories
+---
 
-        <div align="center">
+### 💼 Featured Repositories
 
-        <a href="https://github.com/umarbaig99/n8n"><img src="https://github-readme-stats.vercel.app/api/pin/?username=umarbaig99&repo=n8n&theme=tokyonight&hide_border=true" /></a>
-        <a href="https://github.com/umarbaig99/pdf-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=umarbaig99&repo=pdf-toolkit&theme=tokyonight&hide_border=true" /></a>
-        <br/>
-        <a href="https://github.com/umarbaig99/umar-ai-enhancing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=umarbaig99&repo=umar-ai-enhancing&theme=tokyonight&hide_border=true" /></a>
-        <a href="https://github.com/umarbaig99/umar-photo-enhancing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=umarbaig99&repo=umar-photo-enhancing&theme=tokyonight&hide_border=true" /></a>
+<div align="center">
 
-        </div>
+<a href="https://github.com/umarbaig99/n8n"><img src="https://github-readme-stats.vercel.app/api/pin/?username=umarbaig99&repo=n8n&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/umarbaig99/pdf-toolkit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=umarbaig99&repo=pdf-toolkit&theme=tokyonight&hide_border=true" /></a>
+<br/>
+<a href="https://github.com/umarbaig99/umar-ai-enhancing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=umarbaig99&repo=umar-ai-enhancing&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/umarbaig99/umar-photo-enhancing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=umarbaig99&repo=umar-photo-enhancing&theme=tokyonight&hide_border=true" /></a>
 
-        ---
+</div>
 
-        ### 📊 GitHub Analytics
+---
 
-        <div align="center">
+### 📊 GitHub Analytics
 
-        <img src="https://github-readme-stats.vercel.app/api?username=umarbaig99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-        <img src="https://streak-stats.demolab.com/?user=umarbaig99&theme=tokyonight&hide_border=true" height="165"/>
+<div align="center">
 
-        <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=umarbaig99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=umarbaig99&theme=tokyonight&hide_border=true" height="165"/>
 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarbaig99&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<br/>
 
-        <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarbaig99&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbaig99&theme=tokyo-night&hide_border=true" width="90%"/>
+<br/>
 
-        </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umarbaig99&theme=tokyo-night&hide_border=true" width="90%"/>
 
-        ---
+</div>
 
-        ### 🐍 Contribution Snake
+---
 
-        <div align="center">
+### 🐍 Contribution Snake
 
-        <img src="https://raw.githubusercontent.com/umarbaig99/umarbaig99/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<div align="center">
 
-        </div>
+<img src="https://raw.githubusercontent.com/umarbaig99/umarbaig99/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
-        <div align="center">
+</div>
 
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1f2937&height=100&section=footer" width="100%"/>
+<div align="center">
 
-        </div>
-        
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1f2937&height=100&section=footer" width="100%"/>
+
+</div>
