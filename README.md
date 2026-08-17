@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0ea5e9&height=200&section=header&text=Umar%20Baig&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Transformation%20Agent%20Architect&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0ea5e9&height=200&section=header&width=100%25" width="100%"/>
+
+# Umar Baig
+
+### AI Transformation Agent Architect
 
 <a href="mailto:baigumar4880@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/u%E1%B4%8D%E1%B4%80%CA%80-%CA%99%E1%B4%80%C9%AA%C9%A2-a724b5268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
