@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0ea5e9&height=200&section=header&text=Umar%20Baig&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Transformation%20Agent%20Architect&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:0ea5e9&height=200&section=header&text=Umar%20Baig&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Transformation%20Agent%20Architect&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="mailto:baigumar4880@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/u%E1%B4%8D%E1%B4%80%CA%80-%CA%99%E1%B4%80%C9%AA%C9%A2-a724b5268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,13 +17,12 @@
 ### 👨‍💻 About Me
 
 - 🏗️ **AI Transformation Agent Architect** — building agentic systems that expand senior engineering throughput, not headcount
-- - 🧠 Focused on **agentic loops, RAG, MCP, and LLM-powered automation** in production, not toy demos
-  - - 🛠️ Currently shipping: document-extraction agents, field-ops PWAs, and AI-native workflow tooling
-    - - 🌱 Deepening: system design, distributed systems, and evals for agentic pipelines
-      - - ⚡ I ship working code first — no half-built prototypes, no TODO-riddled placeholders
-       
-        - ---
+- 🧠 Focused on **agentic loops, RAG, MCP, and LLM-powered automation** in production, not toy demos
+- 🛠️ Currently shipping: document-extraction agents, field-ops PWAs, and AI-native workflow tooling
+- 🌱 Deepening: system design, distributed systems, and evals for agentic pipelines
+- ⚡ I ship working code first — no half-built prototypes, no TODO-riddled placeholders
 
+---
         ### ⚙️ Tech Stack
 
         <div align="center">
